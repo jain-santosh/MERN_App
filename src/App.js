@@ -11,8 +11,7 @@ import Timer from './module-2/Timer';
 import ThemeWindow from './module-2/ThemeWindow';
 import BasicForm from './module-2/BasicForm';
 import ReactForm from './module-2/ReactForm';
-import IncrementState from './module-2/IncrementState';
-import StateVariable from './module-2/StateVariable'
+import BasicReactForm from './module-2/BasicReactForm';
 
 
 function App() {
@@ -32,8 +31,11 @@ function App() {
     </AlertButton>
     <br /> <br /> 
     <Increment /> */}
-    <IncrementState />
+    {/* <IncrementState /> */}
     {/* <StateVariable /> */}
+    <ThemeWindow />
+    <BasicForm />
+    <BasicReactForm />
 
   </>
   );

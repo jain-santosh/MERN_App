@@ -16,3 +16,8 @@ This repository contains practice material for the Full Stack Development Lab as
 ├── 📁 module-2    # Examples covered in Module-2 
 └── README.md               # Documentation
 ```
+
+## 📬 Contact
+For queries, feel free to reach out via email or GitHub discussions.
+
+📧 Email: santoshjain.id@gmail.com(mailto:santoshjain.id@gmail.com)
